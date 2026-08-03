@@ -1,0 +1,25 @@
+[
+  {
+    "dna_id": "55400bfb7e1e4cda8ee41c9dbbb02239",
+    "model_id": "MG-FF1FA907D10C80C1",
+    "model_file_name": "068863e1247849d59b6e0e5851802924_random_forest.pkl",
+    "algorithm": "RandomForestClassifier",
+    "dataset_file_name": "7295b6cc14f04045990eb552d566bbf6_sample_ml_dataset.csv",
+    "target_column": "Purchased",
+    "feature_columns": [
+      "Age",
+      "Income",
+      "Experience",
+      "City"
+    ],
+    "feature_count": 4,
+    "model_hash": "ff1fa907d10c80c1e35e53667e533662e3af0cd3db9f8cb9136d9c8fc81e826b",
+    "fingerprint": "FF1FA907D10C80C1",
+    "health_score": 90.0,
+    "grade": "A",
+    "deployment_status": "APPROVED",
+    "created_at": "2026-08-02T18:21:47.118864+00:00",
+    "dna_version": "1.0",
+    "registry_version": "v1"
+  }
+]
