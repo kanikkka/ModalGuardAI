@@ -9,3 +9,4 @@ pydantic
 sqlalchemy
 python-dotenv
 reportlab
+networkx
